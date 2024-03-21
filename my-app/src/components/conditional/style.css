@@ -1,0 +1,22 @@
+.h1{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(219, 219, 145);
+    border-radius: 10px;
+}
+.h2{
+    color: rgb(143, 130, 130);
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(219, 219, 145);
+    border-radius: 10px;
+}
