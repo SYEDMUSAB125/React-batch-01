@@ -1,19 +1,22 @@
 
 
-import Hooks from "./components/Hooks"
-// import Navbar from "./components/Navbar"
+// import Hooks from "./components/Hooks"
+import Header from "./components/Header"
 // import Conditional from "./components/conditional/Conditional"
 
-function App() {
- 
+import Hooks3 from "./components/Hooks3"
 
+function App() {
 
 
   return (
-    <>
-    <Hooks/>
-
-    </>
+    <div>
+   
+     
+     
+ 
+  
+    </div>
   )
 }
 
